@@ -1,7 +1,7 @@
 <h1> TextBasedGame <h/1>
 <h1> RETORNO A CASA <h/1>
 
-1.Introdução ao Projeto
+<p>1.Introdução ao Projeto
 
 Visão Geral do Jogo:  
 "Retorno a Casa" é um jogo de aventura interativa em que o jogador assume o papel de um personagem perdido em uma floresta, com o objetivo principal de voltar para casa em segurança.
@@ -45,4 +45,5 @@ Para ultrapassar esse desafio, revisei a lógica das escolhas e testei o jogo em
 
 5.Conclusão
 
-O desenvolvimento de "Retorno a Casa" foi uma experiência diferente, enriquecendo o meu entendimento sobre narrativa interativa e design de jogos. No futuro, pretendo modularizar o código para melhorar a manutenção e expandir a narrativa com novos caminhos e desafios.
+O desenvolvimento de "Retorno a Casa" foi uma experiência diferente, enriquecendo o meu entendimento sobre narrativa interativa e design de jogos. No futuro, pretendo modularizar o código para melhorar a manutenção e expandir a narrativa com novos caminhos e desafios.<p>
+A<<
