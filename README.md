@@ -1,5 +1,5 @@
-<h1> TextBasedGame <h/1>
-<h1> RETORNO A CASA <h/1>
+<h1> TextBasedGame </h1>
+<h1> RETORNO A CASA </h1>
 
 <p>1.Introdução ao Projeto
 
@@ -46,4 +46,3 @@ Para ultrapassar esse desafio, revisei a lógica das escolhas e testei o jogo em
 5.Conclusão
 
 O desenvolvimento de "Retorno a Casa" foi uma experiência diferente, enriquecendo o meu entendimento sobre narrativa interativa e design de jogos. No futuro, pretendo modularizar o código para melhorar a manutenção e expandir a narrativa com novos caminhos e desafios.<p>
-A<<
