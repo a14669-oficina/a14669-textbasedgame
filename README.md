@@ -4,7 +4,7 @@
 <p>1.Introdução ao Projeto
 
 Visão Geral do Jogo:  
-"Retorno a Casa" é um jogo de aventura interativa em que o jogador assume o papel de um personagem perdido em uma floresta, com o objetivo principal de voltar para casa em segurança.
+O meu jogo "Retorno a Casa", é um jogo de uma aventura interativa em que o jogador está perdido em uma floresta, com o objetivo principal de voltar para casa em segurança.
 
 Origem da Ideia:  
 A ideia para o jogo surgiu da vontade de criar uma coisa mais aventureira, pois eu acho que é mais divertido e mais entusiasmante para a pessoa que está a jogar.
