@@ -1,5 +1,4 @@
-<h1> TextBasedGame </h1>
-<h1> RETORNO A CASA </h1>
+<h1> TextBasedGame - RETORNO A CASA </h1>
 
 <h1> 1.Introdução ao Projeto </h1>
 
