@@ -45,3 +45,4 @@ Para ultrapassar esse desafio, revisei a lógica das escolhas e testei o jogo em
 <h1> 5.Conclusão </h1>
 
 O desenvolvimento de "Retorno a Casa" foi uma experiência diferente, enriquecendo o meu entendimento sobre narrativa interativa e design de jogos. No futuro, pretendo modularizar o código para melhorar a manutenção e expandir a narrativa com novos caminhos e desafios.<p>
+<h6>OFICINA, Escola Profissional &copy; 2024</h6>
